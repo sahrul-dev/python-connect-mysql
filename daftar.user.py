@@ -5,9 +5,9 @@ nama = input()
 print("Masukan email kamu")
 email = input()
 
-cursor = connection.mysql.cursor()
+cursor = connect.mysql.cursor()
 sql = "INSERT INTO users (nama,email) VALUES ($s, $s)"
 val = (nama, email)
-connection.mysql.commit()
+connect.mysql.commit()
 
 print("Dat berhasil di masukan..")
