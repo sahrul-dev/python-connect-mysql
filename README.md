@@ -5,7 +5,7 @@ create, read, update, delete
 
 cara menjalankan nya :
 
-`python data.user.py`
+`python insert.py`
 
 setalah anda menjalankan project mungkin ada notice seperti ini :
  `import mysql.connector
