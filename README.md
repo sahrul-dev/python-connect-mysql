@@ -7,16 +7,6 @@ cara menjalankan nya :
 
 `python insert.py`
 
-setalah anda menjalankan project mungkin ada notice seperti ini :
- `import mysql.connector
-ModuleNotFoundError: No module named 'mysql'`
-
-itu artinya harus download module mysql.connector terlebih dahulu
-
-caranya :
-
-`pip install mysql-connector-python`
-
 semoga bermanfaat
 
 Author Mohammad Sahrullah
