@@ -7,5 +7,4 @@ cara menjalankan nya :
 
 `python insert.py`
 
-Created Mohammad Sahrullah
 
